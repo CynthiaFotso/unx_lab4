@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -Wall -Wextra -std=c++11
+CXXFLAGS = -Wall -std=c++11
 TARGET = lab4
 SRC = lab4.cpp
 

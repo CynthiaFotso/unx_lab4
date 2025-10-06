@@ -48,6 +48,9 @@ int main() {
                 cout << "Visual Type: " << fixInfo.visual << endl;
                 cout << "Accelerator:  " << fixInfo.accel << endl;
                 cout << "Capabilities: " << fixInfo.capabilities << endl;
+		//visual type: 2
+		//accelerator: 0
+		//capabilities: 0
                 break;
             }
 
@@ -64,6 +67,9 @@ int main() {
                 cout << "X Resolution: " << varInfo.xres << endl;
                 cout << "Y Resolution: " << varInfo.yres << endl;
                 cout << "Bits Per Pixel: " << varInfo.bits_per_pixel << endl;
+		//X resolution: 1280
+		//Y resolution: 800
+		//Bits per pixel: 32
                 break;
             }
 
